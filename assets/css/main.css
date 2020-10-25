@@ -1058,3 +1058,7 @@
 			max-width: 90%;
 			max-height: 90%;
 		}
+
+		.brand-statement{
+			text-transform: none;
+		}
